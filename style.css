@@ -6,7 +6,7 @@
 .bg-grcry{
     background-image: linear-gradient(to bottom right,#f8eedb, #f5efdd,#ebc588);
     height: 60px;
-    width: 1357px;
+    width: 1359px;
 }
 .nav-style{
     width: 1270px;
@@ -21,8 +21,6 @@
     align-items: center;
     justify-content: space-around;
 }
-
-
 .home-img{
     margin-top: 60px;
     margin-bottom: 60px;
